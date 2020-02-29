@@ -14,6 +14,7 @@ public class HomeController {
 	@RequestMapping("/")
 	public String showHomePage() {
 		System.out.println("inside showHomePage");
+		System.out.println("Test");
 		return "home";
 	}
 	
