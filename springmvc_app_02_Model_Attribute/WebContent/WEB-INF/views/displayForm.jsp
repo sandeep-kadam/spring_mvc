@@ -9,7 +9,7 @@
 <body>
 	<h1>Spring MVC course registration form:</h1>
 
-	<form action="processFormVersiontwo" method="post">
+	<form action="processFormVersionthree" method="post">
 		<input type="text" name="userName" placeholder="What's your name?"><br> 
 		<input type="submit" value="Click Me">
 	</form>

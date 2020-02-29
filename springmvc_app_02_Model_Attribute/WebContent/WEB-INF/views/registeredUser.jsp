@@ -8,6 +8,6 @@
 </head>
 <body>
 <h1>Hello world! of Spring MVC</h1>
-<h3>Hi bro, ${message}</h3>
+<h3> ${message}</h3>
 </body>
 </html>

@@ -4,6 +4,6 @@
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
         <property name="java-output-path" value="/springmvc_app_01_Hello_World/build/classes"/>
-        <property name="context-root" value="springmvc_app_03_Reading_Static_Resources(CSS,JS)"/>
+        <property name="context-root" value="springmvc_app_03_Reading_Static_Resources"/>
     </wb-module>
 </project-modules>
