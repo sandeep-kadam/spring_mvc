@@ -1,0 +1,14 @@
+body {
+    background-color: white;
+}
+
+marquee{
+      font-size: 30px;
+      font-weight: 800;
+      color: #8ebf42;
+      font-family: sans-serif;
+}
+
+h1{
+	color:red;
+}
