@@ -14,7 +14,7 @@ if(null != request.getAttribute("jobProfile")){
 
 %>
 <head>
-<title>Student Confirmation</title>
+<title>Student Confirmation Report</title>
 </head>
 <body>
 
