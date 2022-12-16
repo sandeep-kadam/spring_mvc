@@ -28,7 +28,7 @@ Spring MVC Hello World</description>
     <finalName>${project.artifactId}</finalName>
   </build>
   <properties>
-  	<spring.version>5.1.13.RELEASE</spring.version>
+  	<spring.version>5.2.20.RELEASE</spring.version>
   </properties>
   <dependencies>
   <dependency>
